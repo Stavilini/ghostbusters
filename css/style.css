@@ -356,13 +356,6 @@ body {
   color: #A5A5A5;
 }
 
-.news-cards {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  margin: 30px;
-}
-
 .news {
   background-color: #f3f3f3;
   padding-top: 70px;
@@ -374,6 +367,8 @@ body {
   background-color: #fff;
   padding: 30px;
   border-radius: 5px;
+  min-height: 200px;
+
 }
 
 .section-news-title {
